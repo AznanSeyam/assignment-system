@@ -15,7 +15,6 @@ namespace AssignmentSystemBackend.DTOs.Submission
 
         public string? Feedback { get; set; }
     }
-
     public class SubmissionResponseDto
     {
         public Guid SubmissionId { get; set; }
