@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-
 namespace AssignmentSystemBackend.DTOs.Auth
 {
     public class LoginRequestDto
