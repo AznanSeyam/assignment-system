@@ -4,6 +4,6 @@ namespace AssignmentSystemBackend.Common.Enums
     {
         Admin = 1,
         Teacher = 2,
-        Student = 3
+        
     }
 }
